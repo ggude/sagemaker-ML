@@ -1,20 +1,22 @@
 
 ```bash
-# Project-GPT2
-  Readme.md
-
+Project-GPT2
+|--------Readme.md
+|
+|
 ----Sagemaker 
 |
+|-------Readme.md
 |
--------Readme.md
-
+|
 ----Lambda Function 
 |
------Readme.md
-
+|-----Readme.md
+|
 ----API Gateway 
 |
-----Readme.md
+|----Readme.md
+|
 ```  
     
 
