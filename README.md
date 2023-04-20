@@ -4,16 +4,16 @@ Project-GPT2
 |--------Readme.md
 |
 |
-----Sagemaker 
+----**Sagemaker** 
 |
 |-------Readme.md
 |
 |
-----Lambda Function 
+----**Lambda Function** 
 |
 |-----Readme.md
 |
-----API Gateway 
+----**API Gateway** 
 |
 |----Readme.md
 |
