@@ -1,11 +1,16 @@
 
 
 # Project-GPT2
-----Sagemaker 
+  Readme.md
+  
+----Sagemaker
+    Readme.md
 
 ----Lambda Function 
+    Readme.md
 
 ----API Gateway 
+    Readme.md
 
 
 
