@@ -16,7 +16,7 @@ Project-GPT2
 ----API Gateway
         |
         |-----Readme.md
-        |
+        |----test_deployed_api.py
 ```  
     
 
